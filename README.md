@@ -66,8 +66,7 @@ git clone https://github.com/Krushna-Chandra/social-Media-Icons.git
 
 ## 🔗 Live Preview
 
-> *(Optional: Add a [GitHub Pages](https://pages.github.com/) or Netlify/Vercel link here if deployed)*
-
+> [Go Live](https://krushna-chandra.github.io/social-Media-Icons/)
 ---
 
 ## 📜 License
