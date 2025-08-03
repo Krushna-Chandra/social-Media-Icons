@@ -1,0 +1,24 @@
+.container{
+    display: flex;
+    /* flex-direction: column-reverse; */
+    justify-content: center;
+    margin-top: 250px;
+
+}
+
+.link{
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    /* background-color: rgb(111, 223, 206); */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-decoration: none;
+    color: white;
+    margin: 10px;
+    transition: all 0.5s;
+}
+.link:hover{
+    transform: scale(1.2);
+}
